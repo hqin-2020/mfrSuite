@@ -1,0 +1,12 @@
+Finished resizing sigmaK, sigmaQ, sigmaR
+Finished setting sigmaK, sigmaQ, sigmaR to zero
+Finished creating empty matrices
+Start to run program. Run name: non_log_prod_tests_ah_0135
+Computing for error
+Updating value functions
+
+========================= Iteration: 0 =============================
+First iteration: no error information.
+Households allowed to hold capital, use kappa = w or the preloaded solution as guess.
+Households are allowed to hold capital - need to solve for kappa. Inner tolerance: 1e-05
+Experts are either not allowed to isuse equity or the constraint binds always, setting chi to constraint everywhere
